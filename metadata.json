@@ -1,0 +1,6 @@
+{
+  "name": "DICO - Spacecraft Astronaut Health & Nutrition Simulator",
+  "description": "Deep-space Integrated Crew Observatory (DICO): an AI-powered onboard astronaut health and nutrition intelligence simulator with biometric station, micro-blood lab, and ground telemetry.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
